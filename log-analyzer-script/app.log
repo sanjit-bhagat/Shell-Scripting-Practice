@@ -1,0 +1,10 @@
+#!/bin/bash
+
+INFO User logged in from 192.168.1.1
+ERROR Database connection failed
+WARNING Disk space low
+INFO File uploaded successfully
+ERROR Timeout while connecting
+INFO User logged out
+WARNING Memory usage high
+ERROR Database connection failed
