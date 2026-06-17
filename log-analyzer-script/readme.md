@@ -1,4 +1,4 @@
-# 📊 Log Analyzer Script (Bash)
+#  Log Analyzer Script (Bash)
 
 A simple and interactive **Log Analyzer tool** built using Bash scripting.  
 This project helps analyze log files by providing useful insights like error count, warning count, and keyword search.
@@ -7,12 +7,12 @@ This project helps analyze log files by providing useful insights like error cou
 
 ## 🚀 Features
 
-- 📄 View last 10 log entries  
-- ❌ Count total ERROR messages  
-- ⚠️ Count total WARNING messages  
-- 🔍 Search logs using keywords  
-- 📊 Generate log analysis report  
-- 🔁 Menu-driven interface  
+-  View last 10 log entries  
+-  Count total ERROR messages  
+-  Count total WARNING messages  
+-  Search logs using keywords  
+-  Generate log analysis report  
+-  Menu-driven interface  
 
 ---
 
@@ -27,7 +27,7 @@ This project helps analyze log files by providing useful insights like error cou
 ---
 
 
-## ▶️ How to Run
+##  How to Run
 
 ### 1. Clone the repository
 ```bash
