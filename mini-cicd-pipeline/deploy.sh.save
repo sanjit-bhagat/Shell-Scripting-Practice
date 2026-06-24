@@ -1,0 +1,30 @@
+#!/bin/bash
+
+#======================
+#CONFIGURATION
+#======================
+
+app_dir="app"
+deploy_dir="deployment"
+build_dir="build"
+backup_dir="backup"
+File_log="logs/deploy.log"
+
+mkdir -p logs
+mkdir -p $deploy_dir
+mkdir -p $build_dir
+mkdir -p $backup_dir
+
+#======================
+#COLORS
+#======================
+
+green='/033[0;32m'
+red='
+
+log_message(){
+echo "$(date   '+%Y-%m-%d   %H:%M:%S') - $1" >> $File_log
+}
+
+log_message "Deployment Started"
+

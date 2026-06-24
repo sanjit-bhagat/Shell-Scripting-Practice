@@ -1,0 +1,2 @@
+
+print ("Application started successfully")
