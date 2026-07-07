@@ -1,0 +1,18 @@
+Jul  7 11:00:01 ubuntu systemd[1]: Started Daily Cleanup of Temporary Directories.
+Jul  7 11:01:12 ubuntu sshd[2001]: Accepted password for user1 from 192.168.1.10 port 53422 ssh2
+Jul  7 11:02:20 ubuntu kernel: [22345.678901] WARNING: CPU temperature high
+Jul  7 11:03:45 ubuntu sshd[2100]: ERROR: Failed password for invalid user admin from 192.168.1.15 port 52211 ssh2
+Jul  7 11:04:10 ubuntu docker[2200]: Container started: nginx-container
+Jul  7 11:05:25 ubuntu docker[2200]: WARNING: Low disk space for container nginx-container
+Jul  7 11:06:30 ubuntu systemd[1]: ERROR: Failed to start Apache service
+Jul  7 11:07:15 ubuntu CRON[2300]: (root) CMD (backup.sh)
+Jul  7 11:08:50 ubuntu kernel: [22350.123456] ERROR: Disk read failure on /dev/sda
+Jul  7 11:09:35 ubuntu sudo: user1 : TTY=pts/0 ; COMMAND=/bin/ls
+Jul  7 11:10:40 ubuntu NetworkManager[900]: WARNING: Connection unstable
+Jul  7 11:11:55 ubuntu sshd[2400]: ERROR: Connection closed by 192.168.1.20 port 60000
+Jul  7 11:12:20 ubuntu systemd[1]: Stopping User Manager for UID 1000...
+Jul  7 11:13:05 ubuntu docker[2200]: ERROR: Container crashed: nginx-container
+Jul  7 11:14:30 ubuntu kernel: [22360.654321] WARNING: Memory usage high
+Jul  7 11:15:45 ubuntu CRON[2500]: ERROR: Backup script failed
+Jul  7 11:16:10 ubuntu systemd[1]: WARNING: Retry starting failed service
+Jul  7 11:17:25 ubuntu systemd[1]: Finished Cleanup of Temporary Directories.

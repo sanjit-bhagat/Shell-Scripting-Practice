@@ -1,0 +1,6 @@
+Linux Log Analyzer Reports
+====================================
+Total log files: 18 
+Total Error: 
+Total Warning: 5
+Date: Tue Jul  7 06:10:21 AM UTC 2026
